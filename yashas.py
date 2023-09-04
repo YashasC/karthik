@@ -1,1 +1,1 @@
-print("w3.ol;pesdk")
+print("HELLO WORLD")
